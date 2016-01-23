@@ -10,31 +10,11 @@ Template Name: Homepage
 <div class="sigla jumbotron">
   <div class="container">
     <div class="row">
-      <h3 class="tagline half-black">A voice for science in climate change media coverage</h3>
+      <h3 class="tagline half-black">A voice for science in biotech media coverage</h3>
     </div>
   </div>
 </div>
-<!-- 
-<section class="campaign">
-  <div class="container">
-    <div class="row">
 
-      <div class="col-xs-12 col-md-6">
-        <div class="camp-left">
-          <img alt="" class="camp-fig" src="<?php echo get_stylesheet_directory_uri(); ?>/dist/images/Istandwithscience.png">
-        </div>
-      </div>
-      <div class="col-xs-12 col-md-6">
-        <div class="camp-body">
-          <h4 class="nospaceup">Support our efforts to improve the accuracy of climate change media coverage</h4>
-          <a target="_blank" href="http://giving.ucmerced.edu/snri-climate-feedback" class="btn btn-primary btn-lg">Donate</a>
-        </div>
-      </div>
-
-    </div>
-  </div>
-</section>
- -->
 <div class="container">
 
   <section class="highlevel-overview">
@@ -175,6 +155,7 @@ Template Name: Homepage
 
 </div><!-- / .container -->
 
+<!-- 
 <section class="press-show">
   <div class="container">
 
@@ -193,5 +174,7 @@ Template Name: Homepage
         <a href="press/" class="btn btn-primary">More Press</a>
       </div>
     </div>
+
   </div>
 </section>
+-->
